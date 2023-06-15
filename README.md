@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### Nice to Meet You!
+### Nice to Meet You!
 
 I am Sam Zhuo Li, a final year AI major at university of Malaya. I build things with <strong> Next.js, TypeScript, Express.js, TailwindCSS, PostgreSQL</strong>
 
