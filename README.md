@@ -7,7 +7,7 @@ I am Sam Zhuo Li, a final year AI major at university of Malaya. I build apps wi
 During my free time, I build and explore machine learning technologies & applications.
 
 ### Bio:
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m currently learning ~~MLOps~~ distributed system
 - 👯 I’m open for collborations
 - 📫 Reach me on <a href='mailto:zhuolisam0627@gmail.com'>Email</a> or <a href='https://www.linkedin.com/in/sam-z-131749b7/' target='_blank'>LinkedIn</a>
 
